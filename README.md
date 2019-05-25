@@ -11,6 +11,3 @@
   <li>Graph</li>
   <li>Hashing</li>
 </ul>
-
--*- mode: php; -*-
--*- c++ -*-
