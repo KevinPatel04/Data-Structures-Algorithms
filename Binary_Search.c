@@ -19,7 +19,6 @@ printf("Key to be searched in array:-> %d\n",key);
     printf("By Using Binary Sreach:-> \n");
     max=n-1;
     min=0;
-    mid;
     while(q==1){
         mid=((min+max)/2);
         if(key>arr[max] || key<arr[min]){
